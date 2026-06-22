@@ -9,6 +9,6 @@ public class RequestShipment
     public string DestinationAddress { get; set; } = string.Empty;
     public RequestShipmentCommodityType CommodityType { get; set; } = RequestShipmentCommodityType.Retail;
     public float Weight { get; set; }
-    public string Notes { get; set; } = string.Empty;
+    public string? Notes { get; set; } = string.Empty;
     public RequestShipmentState State { get; set; } = RequestShipmentState.Pending;
 } 

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ubriver")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+12230b0cbac60ecb6253de5d3827b9e0faddffae")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c84aa44429ae7e89527e3d73d6afe4b85a0fd6e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ubriver")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ubriver")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

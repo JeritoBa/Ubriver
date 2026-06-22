@@ -13,6 +13,7 @@ public class ApplicationDbContext : IdentityDbContext<User>
     }
 
     // Models
+    public DbSet<RequestShipment> RequestShipments { get; set; }
 
     // DB Configurations
 }
